@@ -6,7 +6,7 @@ This "Super Stores Sales Dashboard" provides an analytical overview of sales per
 ## SuperStoreSales Forecast
 This "Super Store Sales Forecast" dashboard provides an in-depth analysis of past sales trends and future sales predictions. 
 
-![](./Sale_Forecast.png)
+![](./Sales_Forecast.png)
 
 ### Sales and Profit by States
 This "Sales and Profit by State" map visualization provides a geographical breakdown of sales and profit across different U.S. states.
